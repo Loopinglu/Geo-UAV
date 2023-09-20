@@ -109,7 +109,7 @@ This means that as a rule of thumb, if you want to obtain a resolution of less t
 
 ```{admonition} GSD Calculator
 :class: tip
-To estimate outcrop resolution, you can use the online app [GSD Calculator](https://www.propelleraero.com/gsd-calculator/). However, this estimate is only a guide since the surface may not be completely flat, making it difficult to maintain a consistent distance and causing the GSD to vary based on the terrain complexity.
+To estimate outcrop resolution, you can use the online app [GSD Calculator](https://web.propelleraero.com/gsd-calculator/). However, this estimate is only a guide since the surface may not be completely flat, making it difficult to maintain a consistent distance and causing the GSD to vary based on the terrain complexity.
 ```
 
 ### Light and shadows
